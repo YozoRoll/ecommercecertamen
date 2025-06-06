@@ -1,0 +1,1 @@
+Estructura logica en javaScript
